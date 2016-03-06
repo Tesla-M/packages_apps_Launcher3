@@ -20,10 +20,10 @@
 <resources>
 
     <color name="ic_allapps_icon_color">#FF7B939E</color>
-    <color name="ic_search_icon_color">#009688</color>
-    <color name="ic_arrow_icon_color">#009688</color>
-    <color name="container_fastscroll_thumb_inactive_color">#009688</color>
-    <color name="search_text_color">#FFFFFFFF</color>
+    <color name="ic_search_icon_color">#33b5e5</color>
+    <color name="ic_arrow_icon_color">#33b5e5</color>
+    <color name="container_fastscroll_thumb_inactive_color">#33b5e5</color>
+    <color name="search_text_color">#33b5e5</color>
 
     <!-- Options -->
     <color name="ic_setting_icon_color">#728090</color>
@@ -34,7 +34,7 @@
     <color name="folder_edge_effect_color">#FF374248</color>
 
     <color name="quantum_panel_text_color">#FFFFFFFF</color>
-    <color name="quantum_panel_bg_color">#FF374248</color>
+    <color name="quantum_panel_bg_color">#FF000000</color>
 
     <color name="all_apps_grid_section_text_color">#FFFFFFFF</color>
 
